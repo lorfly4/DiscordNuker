@@ -1,5 +1,5 @@
 #BOT CONFIG
-token = "ODY3Mjg1NzA4NTE0NTI1MjA0.YPe4wg.-g0OPhv-9OErtzxioLAWaIzwH0Q"
+token = "your token bot"
 prefix = "!"
 
 #NUKE CONFIG
